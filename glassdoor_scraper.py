@@ -106,7 +106,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     #</div>
                     headquarters = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Headquarters"]//following-sibling::*').text
                 except NoSuchElementException:
-                    headquarters = -1
+                    > 92s = -1
 
                 try:
                     size = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Size"]//following-sibling::*').text
