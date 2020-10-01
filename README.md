@@ -66,6 +66,7 @@ I tried three different models:
 *	**Multiple Linear Regression** – Baseline for the model
 *	**Lasso Regression** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
 *	**Random Forest** – Again, with the sparsity associated with the data, I thought that this would be a good fit. 
+*	**Ridge Regression** - To compare with other regression models, I also tried the ridge regression as well.
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
