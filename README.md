@@ -50,11 +50,13 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-https://github.com/mostofa-ahsan/Gl_Salary_proj/blob/master/image.png
+![image](https://user-images.githubusercontent.com/34641108/95010173-cde9bb80-05ec-11eb-8d1b-137e985957ce.png)
 
-https://github.com/mostofa-ahsan/Gl_Salary_proj/blob/master/image1.png
 
-https://github.com/mostofa-ahsan/Gl_Salary_proj/blob/master/image2.png
+![image](https://user-images.githubusercontent.com/34641108/95010189-fc679680-05ec-11eb-92f9-9a417c2b1778.png)
+
+![image](https://user-images.githubusercontent.com/34641108/95010230-3a64ba80-05ed-11eb-9d57-c51485801739.png)
+
 
 ## Model Building 
 
